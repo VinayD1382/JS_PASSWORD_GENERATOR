@@ -1,0 +1,1 @@
+![Screenshot 2024-06-03 175934](https://github.com/VinayD1382/JS_PASSWORD_GENERATOR/assets/114236808/2bde3d59-b72c-4341-a667-fe59dc436939)
